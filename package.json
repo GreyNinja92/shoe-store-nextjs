@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "postbuild": "@omega-next-adapter 2>/dev/null || echo 'Running Locally'"
+    "start": "next start"
   },
   "dependencies": {
     "next": "^15.1.0",
