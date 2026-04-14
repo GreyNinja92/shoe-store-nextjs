@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "👟 Shoe Store",
+    "cart": "Cart"
+  },
+  "shop": {
+    "heading": "Shop Shoes",
+    "addToCart": "Add to Cart"
+  },
+  "cart": {
+    "heading": "Your Cart",
+    "empty": "Cart is empty",
+    "remove": "Remove",
+    "total": "Total"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  }
+}

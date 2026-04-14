@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "👟 Magasin de Chaussures",
+    "cart": "Panier"
+  },
+  "shop": {
+    "heading": "Acheter des Chaussures",
+    "addToCart": "Ajouter au Panier"
+  },
+  "cart": {
+    "heading": "Votre Panier",
+    "empty": "Le panier est vide",
+    "remove": "Retirer",
+    "total": "Total"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  }
+}
