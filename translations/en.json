@@ -5,7 +5,8 @@
   },
   "shop": {
     "heading": "Shop Shoes",
-    "addToCart": "Add to Cart"
+    "addToCart": "Add to Cart",
+    "itemCount": "{count, plural, =0 {No items} one {# item} other {# items}}"
   },
   "cart": {
     "heading": "Your Cart",
@@ -15,6 +16,15 @@
   },
   "language": {
     "en": "English",
-    "fr": "Français"
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "Last updated: {date, date, medium}"
   }
 }

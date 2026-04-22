@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "👟 Tienda de Zapatos",
+    "cart": "Carrito"
+  },
+  "shop": {
+    "heading": "Comprar Zapatos",
+    "addToCart": "Añadir al Carrito",
+    "itemCount": "{count, plural, =0 {Sin artículos} one {# artículo} other {# artículos}}"
+  },
+  "cart": {
+    "heading": "Tu Carrito",
+    "empty": "El carrito está vacío",
+    "remove": "Eliminar",
+    "total": "Total"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "Última actualización: {date, date, medium}"
+  }
+}

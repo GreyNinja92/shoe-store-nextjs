@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "👟 متجر الأحذية",
+    "cart": "السلة"
+  },
+  "shop": {
+    "heading": "تسوق الأحذية",
+    "addToCart": "أضف إلى السلة",
+    "itemCount": "{count, plural, =0 {لا توجد عناصر} one {عنصر واحد} two {عنصران} few {# عناصر} many {# عنصرًا} other {# عنصر}}"
+  },
+  "cart": {
+    "heading": "سلتك",
+    "empty": "السلة فارغة",
+    "remove": "إزالة",
+    "total": "المجموع"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "آخر تحديث: {date, date, medium}"
+  }
+}

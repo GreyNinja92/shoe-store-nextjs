@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "👟 鞋店",
+    "cart": "购物车"
+  },
+  "shop": {
+    "heading": "选购鞋子",
+    "addToCart": "加入购物车",
+    "itemCount": "{count, plural, =0 {没有商品} other {#件商品}}"
+  },
+  "cart": {
+    "heading": "你的购物车",
+    "empty": "购物车为空",
+    "remove": "移除",
+    "total": "总计"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "最后更新: {date, date, medium}"
+  }
+}

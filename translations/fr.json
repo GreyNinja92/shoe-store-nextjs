@@ -5,7 +5,8 @@
   },
   "shop": {
     "heading": "Acheter des Chaussures",
-    "addToCart": "Ajouter au Panier"
+    "addToCart": "Ajouter au Panier",
+    "itemCount": "{count, plural, =0 {Aucun article} one {# article} other {# articles}}"
   },
   "cart": {
     "heading": "Votre Panier",
@@ -15,6 +16,15 @@
   },
   "language": {
     "en": "English",
-    "fr": "Français"
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "Dernière mise à jour : {date, date, medium}"
   }
 }

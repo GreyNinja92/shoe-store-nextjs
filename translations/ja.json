@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "👟 シューズストア",
+    "cart": "カート"
+  },
+  "shop": {
+    "heading": "シューズを購入",
+    "addToCart": "カートに追加",
+    "itemCount": "{count, plural, =0 {商品なし} other {#点の商品}}"
+  },
+  "cart": {
+    "heading": "カートの中身",
+    "empty": "カートは空です",
+    "remove": "削除",
+    "total": "合計"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "最終更新日: {date, date, medium}"
+  }
+}

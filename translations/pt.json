@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "👟 Loja de Sapatos",
+    "cart": "Carrinho"
+  },
+  "shop": {
+    "heading": "Comprar Sapatos",
+    "addToCart": "Adicionar ao Carrinho",
+    "itemCount": "{count, plural, =0 {Sem itens} one {# item} other {# itens}}"
+  },
+  "cart": {
+    "heading": "Seu Carrinho",
+    "empty": "O carrinho está vazio",
+    "remove": "Remover",
+    "total": "Total"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "pt": "Português",
+    "zh": "中文",
+    "ar": "العربية"
+  },
+  "formats": {
+    "lastUpdated": "Última atualização: {date, date, medium}"
+  }
+}
